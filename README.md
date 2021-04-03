@@ -17,7 +17,7 @@ buka vcsCode dan buat file HTML baru
 
 </body>
 </html>
-'''
+
 ![Screenshot_20210403-111512](https://user-images.githubusercontent.com/37741274/113467607-3ca9b380-946e-11eb-84f2-3b452460a9c7.png)
 
 ## Langkah 2
@@ -110,18 +110,3 @@ Menambah hyperlink baru dan menampilkan yg telah di tentukan, untuk blank akan m
 
  
  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ![Screenshot_20210403-113551](https://user-images.githubusercontent.com/37741274/113468568-10dbfd00-9471-11eb-9096-4d9c458b7c4a.png)
