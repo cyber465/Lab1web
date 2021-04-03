@@ -58,7 +58,7 @@ Selanjutnya
     Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
-'''
+
 ![Screenshot_20210403-113139_1](https://user-images.githubusercontent.com/37741274/113468423-50561980-9470-11eb-82f9-e46d2b7170f2.png)
 
 ## Langkah 5
