@@ -19,7 +19,7 @@ buka vcsCode dan buat file HTML baru
 </html>
 '''
 ![Screenshot_20210403-111512](https://user-images.githubusercontent.com/37741274/113467607-3ca9b380-946e-11eb-84f2-3b452460a9c7.png)
-'''
+
 ## Langkah 2
 Selanjutnya
 '''
